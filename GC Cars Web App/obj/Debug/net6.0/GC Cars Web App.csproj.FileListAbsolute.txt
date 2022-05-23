@@ -1,0 +1,28 @@
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\appsettings.json
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\GC Cars Web App.staticwebassets.runtime.json
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\GC Cars Web App.exe
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\GC Cars Web App.deps.json
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\GC Cars Web App.runtimeconfig.json
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\GC Cars Web App.dll
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\GC Cars Web App.pdb
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.AssemblyInfo.cs
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.RazorAssemblyInfo.cache
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.RazorAssemblyInfo.cs
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\scopedcss\bundle\GC Cars Web App.styles.css
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\scopedcss\projectbundle\GC Cars Web App.bundle.scp.css
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.csproj.CopyComplete
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.dll
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\refint\GC Cars Web App.dll
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.pdb
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\GC Cars Web App.genruntimeconfig.cache
+C:\Users\Nick\source\repos\GC Cars Web App\GC Cars Web App\obj\Debug\net6.0\ref\GC Cars Web App.dll

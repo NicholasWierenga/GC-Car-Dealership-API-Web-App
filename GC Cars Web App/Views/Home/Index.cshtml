@@ -1,0 +1,24 @@
+﻿<h1>GC Car Dealership</h1>
+
+<p><a asp-action="AllCars">Click here for all cars</a></p>
+
+<h2>Search for car</h2>
+<p>Fields can be left blank.</p>
+<p>Since the list of cars is small, use Make: Ford with nothing else, then 2021 only, then Ford with 2021, then Gold as color to test.</p>
+
+@{
+    int year = DateTime.Now.Year + 1; // New cars sometimes have a year 1 ahead current year.
+}
+<form asp-action="SearchForCars" asp-controller="Home">
+
+    <p>Make: <input type="text" name="Make" /></p>
+    
+    <p>Model: <input type="text" name="Model" /></p>
+
+    <p>Year: <input type="number" name="Year" min=1885 max=@year /></p>
+
+    <p>Color: <input type="text" name=Color /></p>
+
+    <input type="submit" />
+
+</form>
